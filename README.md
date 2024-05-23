@@ -7,7 +7,7 @@ Can Manually insert preferred time between clicks in bottom right box. (10th's o
 
 Install Instructions:
 
-Install the zip file like normal
-Unpack at desired location
-Open folder and dist folder
-double click VSE_Auto_Script.exe
+Install the zip file like normal, 
+Unpack at desired location, 
+Open folder and dist folder, 
+double click VSE_Auto_Script.exe, 
