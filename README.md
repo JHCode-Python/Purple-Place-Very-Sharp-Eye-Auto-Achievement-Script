@@ -10,4 +10,4 @@ Install Instructions:
 Install the zip file like normal, 
 Unpack at desired location, 
 Open folder and dist folder, 
-double click VSE_Auto_Script.exe, 
+double click VSE_Auto_Script.exe
